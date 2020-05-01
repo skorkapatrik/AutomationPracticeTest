@@ -26,6 +26,5 @@ Feature: ContactUs feature test
     And The Send link is clicked
     Then Your message has been successfully sent to our team
 
-  Scenario: Close browser
 
 

@@ -72,11 +72,4 @@ public class ContactUsSteps extends StepDefinitions{
     }
 
 
-    @Given("Close browser")
-    public void closeBrowser() {
-        driver.quit();
-
-    }
-
-
 }
